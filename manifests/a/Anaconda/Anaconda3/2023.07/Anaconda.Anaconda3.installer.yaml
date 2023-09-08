@@ -24,5 +24,6 @@ Installers:
   InstallerSha256: FC75A8843169366E47A54C58DDD28FF95F4EDB6A088731DD62ACFC8F955439F9
   InstallerSwitches:
     Custom: /InstallationType=AllUsers /AddToPath=1 /RegisterPython=1
+  ElevationRequirement: elevationRequired
 ManifestType: installer
-ManifestVersion: 1.4.0
+ManifestVersion: 1.5.0
